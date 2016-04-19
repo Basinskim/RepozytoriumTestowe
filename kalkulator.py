@@ -14,3 +14,4 @@ z = input()
 
 
 print ("Jestę programistę")
+print ("Jestę programistę na 5 punktow")
