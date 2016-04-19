@@ -11,3 +11,6 @@
 
 int a  = 0
 z = input()
+
+
+print ("Jestę programistę")
